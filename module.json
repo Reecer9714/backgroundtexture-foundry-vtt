@@ -1,0 +1,12 @@
+{
+  "id": "background-texture",
+  "title": "Background Texture",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Allows a (tillable) texture to be set as the background for a scene.",
+  "author": "Reecer9714",
+  "scripts": ["background-texture.js"]
+}
